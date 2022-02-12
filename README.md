@@ -13,6 +13,9 @@
     <a href = https://www.linkedin.com/in/heyprincesingh/> 
     <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40"/>
     </a>
+    <a href = https://www.linkedin.com/in/heyprincesingh/> 
+    <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png width="40" height="40"/>
+    </a>
   </p>
   <p align = center >
     <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" />
