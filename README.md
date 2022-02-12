@@ -18,7 +18,7 @@
     </a>
     </a>
     <a href = https://www.codechef.com/users/heyprince/> 
-    <img src = https://image.pngaaa.com/788/4464788-middle.png width="50" height="50"/>
+    <img src = https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg/>
     </a>
   </p>
   <p align = center >
