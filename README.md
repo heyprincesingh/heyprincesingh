@@ -10,7 +10,7 @@
     I have a good knowledge of C, C++, Dart language and worked on Android Studio, Visual Basics.
     <br>
     <br>
-    <a href = https://www.linkedin.com/in/anurag-pathak-41807b17a > 
+    <a href = https://www.linkedin.com/in/heyprincesingh/> 
     <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40"/>
     </a>
   </p>
