@@ -3,8 +3,8 @@
   <h1> <p align ="center">Hey!<br>I am Prince Singh</p> </h1>
   <br>
   <p align = center >
-    I am an <b> application software developer </b>. I am a student persuing<b> Btech </b>with <b>Computer Science</b>.<br>
-    I am pursuing my Btech from <b> GL Bajaj Institute of Technology and Management, Greater Noida </b>.
+    I am an <b> Application Software Developer </b>and A student persuing<b> Btech </b>with <b>Computer Science</b>.
+    <br> I am pursuing my Btech from <b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
     <br>
     <br>
     I contribute in Java applications, Web-Technologies, and C++ applications. 
