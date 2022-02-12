@@ -12,8 +12,8 @@
     <br>
   </p>
   <p align = center >
-    <img src = "https://github-readme-stats-anurag-pathak.vercel.app/api?username=ANURAG-PATHAK&show_icons=true&hide_border=true" />
-    <img src = https://github-readme-stats-anurag-pathak.vercel.app/api/top-langs?username=ANURAG-PATHAK&layout=compact />
+    <img src = "https://github-readme-stats-heyprincesingh.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" />
+    <img src = https://github-readme-stats-heyprincesingh.vercel.app/api/top-langs?username=HEYPRINCESINGH&layout=compact />
   </p>
 </body>
 </html>
