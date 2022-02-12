@@ -1,8 +1,8 @@
 <html>   
 <body>
-  <h1> <p align ="center">Hey! I am<br>Prince Singh![ClipWindowsGIF](https://user-images.githubusercontent.com/73632736/153705587-f711c91d-09c9-413e-ae55-0c49da74e527.gif)
-</p> </h1>
+  <h1> <p align ="center">Hey! I am<br>Prince Singh</p> </h1>
   <br>
+  <img src = https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif height="200">
   <p align = center >
     I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
     <br> I am pursuing my Btech from <b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
