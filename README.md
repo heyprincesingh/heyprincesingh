@@ -23,8 +23,8 @@
     </a>
   </p>
   <p align = center >
-    <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" height="200" hspace="20"/>
-    <img src = https://github-readme-stats.vercel.app/api/top-langs?username=HEYPRINCESINGH&layout=compact height="200" hspace="20"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" height="200" hspace="5"/>
+    <img src = https://github-readme-stats.vercel.app/api/top-langs?username=HEYPRINCESINGH&layout=compact height="200"/>
   </p>
 </body>
 </html>
