@@ -1,6 +1,6 @@
 <html>   
 <body>
-  <h1> <p align ="center"> Hello!! 👋🏻✌🏻 😁😁<br> I am Anurag Pathak </p> </h1>
+  <h1> <p align ="center"> Hey!<br>I am Prince Singh</p> </h1>
   <br>
   <p align = center >
     I am an <b> open source enthusiast </b>. I am in my <b> freshman year </b>  of <b> Btech </b>.<br>
@@ -12,8 +12,8 @@
     <br>
   </p>
   <p align = center >
-    <img src = "https://github-readme-stats-heyprincesingh.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" />
-    <img src = https://github-readme-stats-heyprincesingh.vercel.app/api/top-langs?username=HEYPRINCESINGH&layout=compact />
+    <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" />
+    <img src = https://github-readme-stats.vercel.app/api/top-langs?username=HEYPRINCESINGH&layout=compact />
   </p>
 </body>
 </html>
