@@ -1,6 +1,6 @@
 <html>   
 <body>
-  <h1> <p align ="center">Hey!I am<br>Prince Singh</p> </h1>
+  <h1> <p align ="center">Hey! I am</h1><br><h1>Prince Singh</p> </h2>
   <br>
   <p align = center >
     I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
