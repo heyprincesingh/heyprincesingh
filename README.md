@@ -11,7 +11,7 @@
     <br>
     <br>
     <a href = https://www.linkedin.com/in/anurag-pathak-41807b17a > 
-    <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="200" height="200"/>
+    <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40"/>
     </a>
   </p>
   <p align = center >
