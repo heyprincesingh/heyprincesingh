@@ -12,14 +12,14 @@
     <br>
     <br>
     <a href = https://www.linkedin.com/in/heyprincesingh/> 
-    <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40"/>
+    <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40" hspace="20"/>
     </a>
     <a href = https://www.hackerrank.com/heyprincesingh/> 
-    <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png width="50" height="50"/>
-    </a>                  
+    <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png width="50" height="50" hspace="20"/>
+    </a>
     </a>
     <a href = https://www.codechef.com/users/heyprince/> 
-    <img src = https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg width="80" height="50"/>
+    <img src = https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg width="80" height="50" hspace="20"/>
     </a>
   </p>
   <p align = center >
