@@ -1,13 +1,13 @@
 <html>   
 <body>
-  <h1> <p align ="center">Hey!<br>I am Prince Singh</p> </h1>
+  <h1> <p align ="center">Hey!I am<br>Prince Singh</p> </h1>
   <br>
   <p align = center >
-    I am an <b> Application Software Developer </b>and A student persuing<b> Btech </b>with <b>Computer Science</b>.
+    I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
     <br> I am pursuing my Btech from <b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
     <br>
     <br>
-    I contribute in Java applications, Web-Technologies, and C++ applications. 
+    I have a good knowledge of C, C++, Dart language and worked on Android Studio, Visual Basics.
     <br>
     <br>
   </p>
