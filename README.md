@@ -10,6 +10,9 @@
     I have a good knowledge of C, C++, Dart language and worked on Android Studio, Visual Basics.
     <br>
     <br>
+    <a href = https://www.linkedin.com/in/anurag-pathak-41807b17a > 
+    <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png />
+    </a>
   </p>
   <p align = center >
     <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" />
