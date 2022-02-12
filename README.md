@@ -12,11 +12,14 @@
     <br>
     <br>
     <br>
+    <a href = https://drive.google.com/file/d/1V3PsrXVxwVcCFKD9AUkup323nmXRfvlC/view?usp=sharing/> 
+    <img src = https://www.downloadclipart.net/large/resume-png-clipart.png width="40" height="40" hspace="20"/>
+    </a>
     <a href = https://www.linkedin.com/in/heyprincesingh/> 
     <img src = https://cdn-icons-png.flaticon.com/512/174/174857.png width="40" height="40" hspace="20"/>
     </a>
     <a href = https://www.hackerrank.com/heyprincesingh/> 
-    <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png width="60" height="60" hspace="20"/>
+    <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/900px-HackerRank_logo.png width="50" height="50" hspace="20"/>
     </a>
     </a>
     <a href = https://www.codechef.com/users/heyprince/> 
