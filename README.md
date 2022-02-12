@@ -7,7 +7,7 @@
     <br>
     <br>
     I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
-    <br> I am pursuing my Btech from <b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
+    <br> I am pursuing my Btech from <br><b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
     <br>
     <img src = https://4kwallpapers.com/images/walls/thumbs_2t/5947.png height="300">
     <br>
