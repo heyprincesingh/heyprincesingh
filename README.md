@@ -6,9 +6,10 @@
     I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
     <br> I am pursuing my Btech from <b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
     <br>
-    <img src = https://4kwallpapers.com/images/walls/thumbs_2t/5947.png>
+    <img src = https://4kwallpapers.com/images/walls/thumbs_2t/5947.png height="50">
     <br>
     I have a good knowledge of C, C++, Dart language and worked on Android Studio, Visual Basics.
+    <br>
     <br>
     <br>
     <a href = https://www.linkedin.com/in/heyprincesingh/> 
@@ -21,6 +22,9 @@
     <a href = https://www.codechef.com/users/heyprince/> 
     <img src = https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg width="80" height="50" hspace="20"/>
     </a>
+    <br>
+    <br>
+    <br>
   </p>
   <p align = center >
     <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" height="200" hspace="5"/>
