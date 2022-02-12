@@ -1,9 +1,9 @@
 <html>   
 <body>
-  <h1> <p align ="center">!Hey!<br>I am Prince Singh</p> </h1>
+  <h1> <p align ="center">Hey!<br>I am Prince Singh</p> </h1>
   <br>
   <p align = center >
-    I am an <b> open source enthusiast </b>. I am in my <b> freshman year </b>  of <b> Btech </b>.<br>
+    I am an <b> application software developer </b>. I am a student persuing<b> Btech </b>with <b>Computer Science</b>.<br>
     I am pursuing my Btech from <b> GL Bajaj Institute of Technology and Management, Greater Noida </b>.
     <br>
     <br>
