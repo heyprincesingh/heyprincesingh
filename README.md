@@ -7,9 +7,9 @@
     <br>
     <br>
     I am an <b> Application Software Developer </b>and a <b> Btech </b> student with <b>Computer Science</b>.
-    <br> I am pursuing my Btech from <br><b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.
+    <br> I am pursuing my Btech from <br><b>Sri Ramaswamy Memorial Institute of Science and Technology, Chennai</b>.<br>
     <br>
-    <img src = https://4kwallpapers.com/images/walls/thumbs_2t/5947.png height="300">
+    <img src = https://4kwallpapers.com/images/walls/thumbs_2t/5947.png height="300"><br>
     <br>
     I have a good knowledge of C, C++, Dart language and worked on Android Studio, Visual Basics.
     <br>
