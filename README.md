@@ -15,7 +15,7 @@
     <br>
     <br>
     <br>
-    <a href = https://drive.google.com/file/d/1V3PsrXVxwVcCFKD9AUkup323nmXRfvlC/view?usp=sharing/> 
+    <a href = https://drive.google.com/file/d/1RQ_VuyvSg528uwIjjvCDE66CCWUMnIpb/view?usp=drivesdk/> 
     <img src = https://www.downloadclipart.net/large/resume-png-clipart.png width="40" height="40" hspace="20"/>
     </a>
     <a href = https://www.linkedin.com/in/heyprincesingh/> 
