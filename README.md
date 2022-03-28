@@ -33,8 +33,9 @@
     <br>
   </p>
   <p align = center >
-    <img src = "https://github-readme-stats.vercel.app/api?username=HEYPRINCESINGH&show_icons=true&hide_border=true" height="200" hspace="5"/>
-    <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=HEYPRINCESINGH&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F&&height="200"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=heyprincesingh&show_icons=true&theme=midnight-purple&text_color=BD632F height="200" hspace="5"/>
+    <img src = https://github-readme-stats.vercel.app/api/top-langs/?username=HEYPRINCESINGH&theme=midnight-purple&layout=compact&langs_count=7&text_color=BD632F height="200"/>
+    <img src = "https://activity-graph.herokuapp.com/graph?username=heyprincesingh&theme=xcode&area=true/>
   </p>
 </body>
 </html>
