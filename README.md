@@ -22,6 +22,7 @@
 <a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" /></a>
 </p>
   </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyprincesingh" alt="heyprincesingh" /></a> </p>
   <br>
   
 <h3 align="center">Languages and Tools:</h3>
