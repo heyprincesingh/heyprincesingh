@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">I am a software developer who is dedicated to success through hard work and excellent organizational and management skills. Excellent knowledge of data structures and competitive programming. I am driven to learn, grow, and excel in the developer industry. Very cool in managing situations and making the most of opportunities. My leadership abilities have enabled me to lead in every scenario.</h3>
+<h4 align="center">I am a software developer who is dedicated to success through hard work and excellent organizational and management skills. Excellent knowledge of data structures and competitive programming. I am driven to learn, grow, and excel in the developer industry. Very cool in managing situations and making the most of opportunities. My leadership abilities have enabled me to lead in every scenario.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://kiyalearning.sg/wp-content/uploads/2022/05/b9e4960c1476c78043d499d975f86cdb.gif">
 <br>
@@ -12,44 +12,39 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **princesingh3632@gmail.com**
+- 📫 Reach me through **[e-mail](mailto:princesingh3632@gmail.com)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)
 
+<br>
+<br>
 <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=heyprincesingh&label=Profile%20views&color=0e75b6&style=flat" alt="Views Count" /> 
   <img src="https://img.shields.io/github/followers/heyprincesingh?label=Followers&logo=GitHub&style=for-the-badge&style=flat" alt="Followers" /> 
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-
-
+***
+<h3 align="left">Connect with me <img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"></h3>
 
 <p align="left">
-
-
-
 <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
-<a href="https://fb.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
-<a href="https://instagram.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
+<a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
 <a href="https://www.codechef.com/users/heyprince" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="heyprince" height="30" width="40" hspace="10"/></a>
 <a href="https://www.hackerrank.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
-<a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
-
-
+<a href="https://fb.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
+<a href="https://instagram.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
 </p>
 
 
 ***
 
-<div align="left"><h2>Technical Skills 🔍</h1> </div>
-  
+<div align="left"><h2>Technical Skills 👨🏻‍💻</h1> </div>
   
 >### Programming Languages: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="10"/></a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="10"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/></a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
+<img align="right" alt="Coding" width="400" src="http://www.stem2steameducation.com/wp-content/uploads/2018/10/book.gif">
 
 >### Mobile App Development:  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" hspace="10"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" hspace="10"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
@@ -66,10 +61,6 @@
 >### Backend as a Service: <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-
-
->### Database: <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
 
 
 
