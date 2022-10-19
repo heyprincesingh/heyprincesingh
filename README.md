@@ -25,7 +25,7 @@
 </p>
 
 ***
-<h3 align="left">Connect with me <img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"></h3>
+<h3 align="left"><img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"> Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
@@ -39,7 +39,7 @@
 
 ***
 
-<div align="left"><h2>Technical Skills 👨🏻‍💻</h1> </div>
+<div align="left"><h2>👨🏻‍💻 Technical Skills </h1> </div>
   
 >### Programming Languages: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="10"/></a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="10"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/></a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -69,13 +69,18 @@
 
 ***
 
- <div align="left"><h2>Github Trophy 🏆 </h2>
+<div align="left"><h2>🏆 Github Trophy</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyprincesingh&column=-1" alt="heyprincesingh" /></a> </p>
 
 ***
+<div align="left"><h2>✨ Holopins</h2>
 
- <div align="left"><h2>Github Stats 📈 </h2>
+[![@heyprincesingh's Holopin board](https://holopin.me/heyprincesingh)](https://holopin.io/@heyprincesingh)
+
+***
+
+ <div align="left"><h2>📈 Github Stats</h2>
 
 Stats   | Languages
 --------| ----------
