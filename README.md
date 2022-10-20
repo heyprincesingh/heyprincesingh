@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 Reach me through **[e-mail](mailto:princesingh3632@gmail.com)**
+- 📫 Reach me through **[My E-mail](mailto:princesingh3632@gmail.com)**
 
-- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)
+- 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)**
 
 <br>
 <br>
