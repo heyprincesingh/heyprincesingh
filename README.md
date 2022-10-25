@@ -93,3 +93,12 @@ Stats   | Languages
 Graph | Contribution
 ------| ----------
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyprincesingh&theme=monokai&text_color=white) | ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=heyprincesingh&theme=dark&width=400)
+
+***
+
+<div align="left"><h2>🐍 Let's Eat My Commits</h2>
+<p align="center">
+  <img src="https://github.com/heyprincesingh/heyprincesingh/blob/output/github-contribution-grid-snake.svg" alt="Snake"/> 
+</p>
+
+***
