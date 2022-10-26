@@ -25,7 +25,7 @@
 </p>
 
 ***
-<h3 align="left"><img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"> Connect with me</h3>
+<div align="left"><h2><img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"> Connect with me</h1> </div>
 
 <p align="left">
 <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a>
