@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Kolker+Brush&size=40&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=272&height=59&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB%2CI'm+Prince+Singh;Software+Developer" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Kolker+Brush&size=40&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=272&height=59&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB+I'm+Prince+Singh;Software+Developer" alt="Typing SVG" /></h1>
 
 
 <h4  align="center">I am a software developer who is dedicated to success through hard work and excellent organizational and management skills. Excellent knowledge of data structures and competitive programming. I am driven to learn, grow, and excel in the developer industry. Very cool in managing situations and making the most of opportunities. My leadership abilities have enabled me to lead in every scenario.</h4>
