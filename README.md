@@ -6,7 +6,6 @@
 <h4  align="center">I am a software developer who is dedicated to success through hard work and excellent organizational and management skills. Excellent knowledge of data structures and competitive programming. I am driven to learn, grow, and excel in the developer industry. Very cool in managing situations and making the most of opportunities. My leadership abilities have enabled me to lead in every scenario.</h4>
 
 
-
 <img align="right" alt="Coding" width="45%" src="https://victorelmann.files.wordpress.com/2021/01/website-design.gif">
 <br>
 <br>
@@ -32,7 +31,6 @@
 
 | <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.codechef.com/users/heyprince" target="blank"><img align="center" src="https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/codecheficon_adobespark.png" alt="heyprince" height="30" width="40" hspace="10"/></a> | <a href="https://www.hackerrank.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://fb.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://instagram.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> |
 |---|---|---|---|---|---|
-
 
 
 ***
