@@ -17,8 +17,6 @@
 - 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)**
 
 
-
-
 <br>
 <br>
 <br>
@@ -29,7 +27,6 @@
  
 ***
 <div align="left"><h2><img src="https://www.hugp.com/research/assets/img/gif/akushu.gif" width="40px"> Connect with me</h1> </div>
-
 
 
 | <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.codechef.com/users/heyprince" target="blank"><img align="center" src="https://github.com/ANURAG-PATHAK/ANURAG-PATHAK/blob/master/resources/codecheficon_adobespark.png" alt="heyprince" height="30" width="40" hspace="10"/></a> | <a href="https://www.hackerrank.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://fb.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://instagram.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> |
