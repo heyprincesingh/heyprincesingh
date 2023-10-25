@@ -9,7 +9,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **[Flutter](https://flutter.dev/)**
+- 🌱 I’m currently a **[Flutter Developer](https://flutter.dev/)**
 
 - 📫 Reach me through **[My E-mail](mailto:princesingh3632@gmail.com)**
 
