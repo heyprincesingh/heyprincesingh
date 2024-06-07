@@ -9,11 +9,11 @@
 <br>
 <br>
 
-- 🌱 I’m currently a **[Flutter Developer](https://flutter.dev/)**
+- 🌱 I’m currently a **[Flutter Developer](https://flutter.dev/)** and **[Backend Developer](https://www.djangoproject.com/)**
 
 - 📫 Reach me through **[My E-mail](mailto:princesingh3632@gmail.com)**
 
-- 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/14j9UvRT0JGgQ_ndwtJG8Rl8h3TkPmhFn/view?usp=sharing)**
+- 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/1jOaD6KVPSXGBVnBBGeOOqumGal-Br-tt/view?usp=sharing)**
 
 <br>
 <br>
