@@ -78,15 +78,36 @@
 
 ***
 
- <div align="left"><h2>📈 Github Stats</h2>
+<div align="left"><h2>📈 Github Stats</h2></div>
 
-Stats   | Languages
---------| ----------
-![Prince's Github Stats](https://github-readme-stats.vercel.app/api?username=heyprincesingh&show_icons=true&theme=vision-friendly-dark) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyprincesingh&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
-
-Graph | Contribution
-------| ----------
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyprincesingh&theme=monokai&text_color=white) | ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=heyprincesingh&theme=dark&width=400)
+<table>
+  <tr>
+    <td align="center" style="width: 50%;"><b>Stats</b></td>
+    <td align="center" style="width: 50%;"><b>Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=heyprincesingh&show_icons=true&theme=vision-friendly-dark" alt="Prince's Github Stats" style="max-width: 100%;" />
+    </td>
+    <td align="center" style="width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyprincesingh&theme=dark&layout=compact&langs_count=8" alt="Top Langs" style="max-width: 100%;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 50%;"><b>Graph</b></td>
+    <td align="center" style="width: 50%;"><b>Contribution</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyprincesingh&theme=monokai&text_color=white" alt="Github Stats Graph" style="max-width: 100%;" />
+    </td>
+    <td align="center" style="width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyprincesingh&theme=dark&width=400" alt="Contribution" style="max-width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 ***
 
