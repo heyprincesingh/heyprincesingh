@@ -92,7 +92,7 @@ Graph | Contribution
 
 <div align="left"><h2>🐍 Let's Eat My Commits</h2>
 <p align="center">
-  <img src="https://github.com/heyprincesingh/heyprincesingh/blob/output/github-contribution-grid-snake.svg" alt="Snake"/> 
+  <img src="https://github.com/heyprincesingh/heyprincesingh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake"/> 
 </p>
 
 ***
