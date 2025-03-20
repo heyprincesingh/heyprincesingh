@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/heyprincesingh/heyprincesingh/blob/master/gIthub-banner.png)
  
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Kolker+Brush&size=40&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=272&height=59&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Prince+Singh;Software+Developer;Flutter+Developer;Web+Developer" alt="Typing SVG" /></h1>
 
@@ -30,40 +30,21 @@
 | <a href="https://linkedin.com/in/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.leetcode.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://www.codechef.com/users/heyprincesingh" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="heyprince" height="30" width="40" hspace="10"/></a> | <a href="https://www.hackerrank.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://fb.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> | <a href="https://instagram.com/heyprincesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyprincesingh" height="30" width="40" hspace="10"/></a> |
 |---|---|---|---|---|---|
 
-
 ***
 
-<div align="left"><h2>👨🏻‍💻 Technical Skills </h1> </div>
-  
->### Programming Languages: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="10"/></a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="10"/></a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" hspace="10"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/></a>  
+# 👨🏻‍💻 Technical Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" hspace="10"/> |
+| **Web & Backend Development** | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" hspace="10"/> |
+| **Mobile App Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" hspace="10"/> |
+| **AI/ML** | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" hspace="10"/> |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" hspace="10"/> |
+| **DevOps & Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" hspace="10"/> <img src="https://raw.githubusercontent.com/celery/celery/main/docs/images/celery_512.png" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" hspace="10"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40" hspace="10"/> |
+| **IDEs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" hspace="10"/> <img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg" width="40" height="40" hspace="10"/> |
 
 
-
->### Mobile App Development : <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" hspace="10"/> </a>    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-
-
-<img align="right" alt="Coding" src="http://www.stem2steameducation.com/wp-content/uploads/2018/10/book.gif" width="35%">
-
->### IDE : <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40" hspace="10"/> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" alt="VsCode" width="40" height="40"/>  
-  
-  
-  
->### AI/ML : <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-
-
-
->### Database : <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-
-
->### Backend as a Service : <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
-
-
-
-
->### Software : <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="10"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="10"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" hspace="10"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
 
 ***
 
