@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently a **[Backend Developer](https://www.djangoproject.com/)** and **[Flutter Developer](https://flutter.dev/)**
 
-- 📫 Reach me through My **[E-mail](mailto:princesingh3632@gmail.com)**
+- 📫 Reach me through my **[E-mail](mailto:princesingh3632@gmail.com)**
 
-- 📄 Know about my experiences from **[My Resume](https://drive.google.com/file/d/1I7jv2sLItx8I66fPBHsPE4XnKgFn5pVP/view)**
+- 📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/1I7jv2sLItx8I66fPBHsPE4XnKgFn5pVP/view)**
 
 <br>
 <br>
@@ -53,9 +53,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyprincesingh&column=-1" alt="heyprincesingh" /></a> </p>
 
 ***
-<div align="left"><h2>✨ Holopins</h2>
+<div align="left"><h2>✨ Leetcode Streak</h2>
+<div align="center">
+  <a href="https://www.leetcode.com/heyprincesingh" target="_blank"">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Front" style="position: absolute; top: 0; left: 0; width: 120px; height: 120px; z-index: 2;">
+  </a>
+</div>
 
-[![@heyprincesingh's Holopin board](https://holopin.me/heyprincesingh)](https://holopin.io/@heyprincesingh)
 
 ***
 
