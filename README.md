@@ -53,7 +53,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyprincesingh&column=-1" alt="heyprincesingh" /></a> </p>
 
 ***
-<div align="left"><h2>✨ Leetcode Streak</h2>
+<div align="left"><h2>✨ Leetcode Badges</h2>
 <div align="center">
  <a href="https://www.leetcode.com/heyprincesingh" target="_blank"">
     <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="DCC April 2025" style="position: absolute; top: 0; left: 0; width: 120px; height: 120px; z-index: 2;">
