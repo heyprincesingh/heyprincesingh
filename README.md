@@ -56,6 +56,9 @@
 <div align="left"><h2>✨ Leetcode Badges</h2>
 <div align="center">
  <a href="https://www.leetcode.com/heyprincesingh" target="_blank"">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge 2025" style="position: absolute; top: 0; left: 0; width: 120px; height: 120px; z-index: 2;">
+ </a>
+ <a href="https://www.leetcode.com/heyprincesingh" target="_blank"">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge 2025" style="position: absolute; top: 0; left: 0; width: 120px; height: 120px; z-index: 2;">
  </a>
  <a href="https://www.leetcode.com/heyprincesingh" target="_blank"">
