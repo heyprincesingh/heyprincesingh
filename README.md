@@ -13,7 +13,7 @@
 
 - 📫 Reach me through my **[E-mail](mailto:princesingh3632@gmail.com)**
 
-- 📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/1I7jv2sLItx8I66fPBHsPE4XnKgFn5pVP/view)**
+- 📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/1KBtdMhr7TSfC_78p0_wWH-NgqJDgaZHy)**
 
 <br>
 <br>
