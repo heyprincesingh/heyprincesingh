@@ -9,8 +9,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently a **[Backend Developer](https://www.djangoproject.com/)** and **[Flutter Developer](https://flutter.dev/)**
-
+- 🌱 I’m currently a **[Backend Developer](https://www.djangoproject.com/)**
 - 📫 Reach me through my **[E-mail](mailto:princesingh3632@gmail.com)**
 
 - 📄 Know about my experiences from my **[Resume](https://drive.google.com/file/d/1KBtdMhr7TSfC_78p0_wWH-NgqJDgaZHy)**
