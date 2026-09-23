@@ -35,14 +35,13 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/> |
-| **Web & Backend Development** | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> |
-| **Mobile App Development** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> |
-| **AI/ML** | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> |
-| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> |
-| **DevOps & Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/celery/celery/main/docs/images/celery_512.png" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" style="margin-right:10px;"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40"/> |
-| **IDEs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin-right:10px;"/> <img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg" width="40"/> |
-
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,js,go,cpp,c&perline=5" /> |
+| **Backend & Web Development** | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,graphql,html,css&perline=6" /> |
+| **Databases & Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,snowflake&perline=5" /> |
+| **Distributed Systems** | <img src="https://skillicons.dev/icons?i=kafka,redis&perline=3" /> <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/celery.svg" width="48" height="48" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,gcp,kubernetes,jenkins,rancher&perline=5" /> |
+| **Tools & Development** | <img src="https://skillicons.dev/icons?i=git,postman,vscode,androidstudio,linux,bash&perline=6" /> |
+| **Mobile App Development** |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" style="margin-right:10px;"/> <img src="https://skillicons.dev/icons?i=flutter&perline=2" /> |
 ***
 
 <div align="left"><h2>🏆 Github Trophy</h2>
