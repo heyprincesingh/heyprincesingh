@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/heyprincesingh/heyprincesingh/blob/master/gIthub-banner.png)
+![MasterHead](https://github.com/heyprincesingh/heyprincesingh/blob/master/git-banner.png)
  
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Kolker+Brush&size=40&duration=3000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=272&height=59&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB+I%27m+Prince+Singh;Software+Developer;Flutter+Developer;Web+Developer" alt="Typing SVG" /></h1>
 
